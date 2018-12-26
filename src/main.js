@@ -6,6 +6,8 @@ import 'element-ui/lib/theme-chalk/index.css'
 import App from './App'
 import router from './router'
 
+// 导入css默认样式
+import '@/assets/css/index.css'
 Vue.config.productionTip = false
 Vue.use(ElementUI)
 /* eslint-disable no-new */
