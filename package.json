@@ -2,7 +2,7 @@
   "name": "usez",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "陈柏青 <2776464049@qq.com>",
+  "author": "陈柏青 <2776464049@qq.com>",  
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js --open",
@@ -10,7 +10,6 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "element-ui": "^2.4.11",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
